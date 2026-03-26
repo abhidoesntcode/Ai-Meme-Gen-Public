@@ -1,4 +1,5 @@
 Project Title: AI Meme Generator
+
 Tech Stack: Python, FastAPI, JavaScript (ES6+), HTML5, CSS3, Google Gemini API, Pillow (PIL), Render/Vercel
 
 Comprehensive Project Breakdown:
